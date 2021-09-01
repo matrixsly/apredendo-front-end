@@ -1,0 +1,36 @@
+  header {
+       background: blanchedalmond;
+       height: 400px;
+  }
+
+  header nav a {
+       font-weight: bold;
+       text-transform: uppercase;
+       text-decoration: none;
+       font-size: 22px;
+  }
+
+header nav li {
+     display: inline;
+     margin-right: 3px;
+}
+
+header h1 {
+     font-size: 40px;
+     font-weight: bold;
+}
+
+ 
+
+ul{
+ position: absolute;
+ top: 200px;
+ right: 0px;
+ margin-right: 10px;
+
+}
+
+.caixa{
+     width: 980px;
+     position: relative;
+}
